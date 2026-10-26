@@ -1,0 +1,3 @@
+**Central India** — ERA5 record annual-max FWI 84.0 (2010). Today (≈1.3 °C) the large ensembles give a 1.8% chance per year of beating it (models: 0.0–3.5%), i.e. 16% chance in the next 10 years; the worst plausible value is 91.4 (+9% vs record). +1.5 °C: 2.3%/yr, +2 °C: 4.1%/yr, +3 °C: 13.4%/yr.
+
+**Uttarakhand** — ERA5 record annual-max FWI 40.0 (1989). Today (≈1.3 °C) the large ensembles give a 1.5% chance per year of beating it (models: 1.0–2.4%), i.e. 14% chance in the next 10 years; the worst plausible value is 49.2 (+23% vs record). +1.5 °C: 1.2%/yr, +2 °C: 1.0%/yr, +3 °C: 1.4%/yr.

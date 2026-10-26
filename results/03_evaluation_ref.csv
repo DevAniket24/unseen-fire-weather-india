@@ -1,0 +1,17 @@
+region,indicator,model,obs_mean,mod_mean,bias,obs_sd,mod_sd,sd_ratio
+Central India,fwixx,CanESM5,73.95,112.54,38.59,4.31,4.05,0.94
+Central India,fwixx,MIROC6,73.95,98.42,24.47,4.31,5.56,1.29
+Central India,fwixx,ACCESS-ESM1-5,73.95,79.83,5.88,4.31,2.11,0.49
+Central India,fwixx,MPI-ESM1-2-LR,73.95,110.21,36.26,4.31,10.17,2.36
+Central India,fwisa,CanESM5,51.69,81.79,30.11,3.73,3.49,0.94
+Central India,fwisa,MIROC6,51.69,70.18,18.49,3.73,6.54,1.75
+Central India,fwisa,ACCESS-ESM1-5,51.69,65.02,13.33,3.73,2.6,0.7
+Central India,fwisa,MPI-ESM1-2-LR,51.69,68.65,16.96,3.73,7.4,1.98
+Uttarakhand,fwixx,CanESM5,33.58,108.16,74.58,3.26,6.39,1.96
+Uttarakhand,fwixx,MIROC6,33.58,75.25,41.66,3.26,6.54,2.01
+Uttarakhand,fwixx,ACCESS-ESM1-5,33.58,44.22,10.63,3.26,7.12,2.19
+Uttarakhand,fwixx,MPI-ESM1-2-LR,33.58,76.1,42.51,3.26,6.69,2.05
+Uttarakhand,fwisa,CanESM5,16.34,78.68,62.34,2.52,4.53,1.8
+Uttarakhand,fwisa,MIROC6,16.34,48.19,31.85,2.52,5.79,2.3
+Uttarakhand,fwisa,ACCESS-ESM1-5,16.34,23.45,7.12,2.52,5.62,2.23
+Uttarakhand,fwisa,MPI-ESM1-2-LR,16.34,48.94,32.6,2.52,6.21,2.47

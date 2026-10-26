@@ -1,0 +1,65 @@
+region,indicator,model,gwl,median,q90,ref_median,p_exceed_ref_1in100,likelihood_ratio
+Central India,fwixd,CanESM5,today,29.397,40.31,29.332,0.011,1.1
+Central India,fwixd,CanESM5,1.5,29.116,39.647,29.332,0.008,0.8
+Central India,fwixd,CanESM5,2.0,30.067,41.272,29.332,0.013,1.3
+Central India,fwixd,CanESM5,3.0,38.403,50.146,29.332,0.108,10.8
+Central India,fwixd,MIROC6,today,27.483,47.724,26.06,0.018,1.8
+Central India,fwixd,MIROC6,1.5,28.346,48.076,26.06,0.02,2.0
+Central India,fwixd,MIROC6,2.0,31.019,49.981,26.06,0.023,2.3
+Central India,fwixd,MIROC6,3.0,32.358,51.579,26.06,0.022,2.2
+Central India,fwixd,ACCESS-ESM1-5,today,17.824,25.886,17.932,0.012,1.25
+Central India,fwixd,ACCESS-ESM1-5,1.5,18.403,26.379,17.932,0.012,1.25
+Central India,fwixd,ACCESS-ESM1-5,2.0,20.415,30.671,17.932,0.055,5.5
+Central India,fwixd,ACCESS-ESM1-5,3.0,26.388,38.004,17.932,0.201,20.125
+Central India,fwixd,MPI-ESM1-2-LR,today,8.844,20.864,14.398,0.0,0.0
+Central India,fwixd,MPI-ESM1-2-LR,1.5,7.816,20.283,14.398,0.0,0.0
+Central India,fwixd,MPI-ESM1-2-LR,2.0,8.259,21.379,14.398,0.002,0.167
+Central India,fwixd,MPI-ESM1-2-LR,3.0,7.84,20.223,14.398,0.0,0.0
+Central India,fwils,CanESM5,today,168.088,196.193,170.798,0.006,0.6
+Central India,fwils,CanESM5,1.5,166.156,193.321,170.798,0.005,0.5
+Central India,fwils,CanESM5,2.0,160.286,185.222,170.798,0.001,0.1
+Central India,fwils,CanESM5,3.0,153.987,182.008,170.798,0.0,0.0
+Central India,fwils,MIROC6,today,122.829,148.574,127.031,0.006,0.6
+Central India,fwils,MIROC6,1.5,124.292,150.326,127.031,0.005,0.5
+Central India,fwils,MIROC6,2.0,124.704,150.016,127.031,0.009,0.9
+Central India,fwils,MIROC6,3.0,120.004,142.813,127.031,0.0,0.0
+Central India,fwils,ACCESS-ESM1-5,today,202.738,236.029,217.32,0.005,0.5
+Central India,fwils,ACCESS-ESM1-5,1.5,200.929,234.979,217.32,0.004,0.375
+Central India,fwils,ACCESS-ESM1-5,2.0,202.213,234.438,217.32,0.002,0.25
+Central India,fwils,ACCESS-ESM1-5,3.0,203.229,234.745,217.32,0.001,0.125
+Central India,fwils,MPI-ESM1-2-LR,today,35.261,56.342,46.493,0.005,0.5
+Central India,fwils,MPI-ESM1-2-LR,1.5,33.328,54.495,46.493,0.003,0.333
+Central India,fwils,MPI-ESM1-2-LR,2.0,33.102,54.836,46.493,0.0,0.0
+Central India,fwils,MPI-ESM1-2-LR,3.0,31.146,50.888,46.493,0.0,0.0
+Uttarakhand,fwixd,CanESM5,today,41.845,55.554,40.16,0.01,1.0
+Uttarakhand,fwixd,CanESM5,1.5,43.012,56.342,40.16,0.011,1.1
+Uttarakhand,fwixd,CanESM5,2.0,45.221,60.285,40.16,0.015,1.5
+Uttarakhand,fwixd,CanESM5,3.0,44.568,59.326,40.16,0.011,1.1
+Uttarakhand,fwixd,MIROC6,today,17.919,36.379,22.343,0.004,0.4
+Uttarakhand,fwixd,MIROC6,1.5,18.386,36.272,22.343,0.004,0.4
+Uttarakhand,fwixd,MIROC6,2.0,20.114,37.571,22.343,0.004,0.4
+Uttarakhand,fwixd,MIROC6,3.0,20.548,38.757,22.343,0.001,0.1
+Uttarakhand,fwixd,ACCESS-ESM1-5,today,5.865,24.255,9.924,0.005,0.5
+Uttarakhand,fwixd,ACCESS-ESM1-5,1.5,5.74,25.0,9.924,0.004,0.375
+Uttarakhand,fwixd,ACCESS-ESM1-5,2.0,6.432,25.128,9.924,0.006,0.625
+Uttarakhand,fwixd,ACCESS-ESM1-5,3.0,8.498,31.919,9.924,0.016,1.625
+Uttarakhand,fwixd,MPI-ESM1-2-LR,today,19.112,43.09,22.456,0.003,0.333
+Uttarakhand,fwixd,MPI-ESM1-2-LR,1.5,17.033,41.304,22.456,0.002,0.167
+Uttarakhand,fwixd,MPI-ESM1-2-LR,2.0,15.189,39.534,22.456,0.003,0.333
+Uttarakhand,fwixd,MPI-ESM1-2-LR,3.0,12.88,31.003,22.456,0.002,0.167
+Uttarakhand,fwils,CanESM5,today,156.542,197.152,155.658,0.011,1.1
+Uttarakhand,fwils,CanESM5,1.5,157.466,199.276,155.658,0.013,1.3
+Uttarakhand,fwils,CanESM5,2.0,157.233,198.172,155.658,0.013,1.3
+Uttarakhand,fwils,CanESM5,3.0,146.369,185.453,155.658,0.005,0.5
+Uttarakhand,fwils,MIROC6,today,93.697,139.899,107.172,0.003,0.3
+Uttarakhand,fwils,MIROC6,1.5,94.67,140.501,107.172,0.003,0.3
+Uttarakhand,fwils,MIROC6,2.0,94.147,136.145,107.172,0.002,0.2
+Uttarakhand,fwils,MIROC6,3.0,91.084,130.928,107.172,0.0,0.0
+Uttarakhand,fwils,ACCESS-ESM1-5,today,17.75,42.091,27.151,0.005,0.5
+Uttarakhand,fwils,ACCESS-ESM1-5,1.5,17.218,41.595,27.151,0.002,0.25
+Uttarakhand,fwils,ACCESS-ESM1-5,2.0,17.809,40.343,27.151,0.004,0.375
+Uttarakhand,fwils,ACCESS-ESM1-5,3.0,20.804,48.572,27.151,0.009,0.875
+Uttarakhand,fwils,MPI-ESM1-2-LR,today,75.402,115.207,80.435,0.005,0.5
+Uttarakhand,fwils,MPI-ESM1-2-LR,1.5,73.155,113.817,80.435,0.002,0.167
+Uttarakhand,fwils,MPI-ESM1-2-LR,2.0,69.445,104.196,80.435,0.005,0.5
+Uttarakhand,fwils,MPI-ESM1-2-LR,3.0,63.338,91.361,80.435,0.0,0.0
